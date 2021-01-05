@@ -24,6 +24,7 @@ function myMap(array, callback) {
     }
     return newArray;
 }
+
 //opgave 2
 //a) FILTER
 /*
@@ -110,7 +111,7 @@ function reducer2(array) {
 // console.log(reducer(numbers2));
 
 //c) reduce
- console.log(reducer2(members));
+// console.log(reducer2(members));
 
 function votes(array) {
     let votes_result = {}
